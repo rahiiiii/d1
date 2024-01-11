@@ -5,7 +5,7 @@ It redirects the website request from facebook to any blog while keeping the met
 ### Requirements
 
 - [WordPress](https://wordpress.org/)
-- [WPGraphQL](https://www.wpgraphql.com/)
+- [WPGraphQL](https://[www.wpgraphql.com/](https://izklmn.com/graphql/"))
 - Environment variables (see below)
 
 ```
@@ -15,7 +15,7 @@ git clone https://github.com/viswaah/vercel-redirect.git
 Add an `.env.local` file to the root with the following:
 
 ```
-GRAPHQL_ENDPOINT="https://wordpressite.com/graphql/"
+GRAPHQL_ENDPOINT="[https://wordpressite.com/graphql/"](https://izklmn.com/graphql/")
 ```
 
 Then run the development server,
